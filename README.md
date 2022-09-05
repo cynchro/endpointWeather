@@ -20,3 +20,8 @@
 ## auth type
 
 - Bearer Token
+
+## test data
+
+- user: admin@admin.com
+- password: password
